@@ -243,6 +243,7 @@ input {
   width: 100%;
   padding: 10px;
 }
+/*>只有二级标签会改变*/
 tbody > tr:nth-child(odd) {
   background-color: #f0f0f0;
 }
